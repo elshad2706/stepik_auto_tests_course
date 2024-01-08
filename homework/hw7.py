@@ -1,27 +1,24 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import math
 import time
-
-def calc(x):
-    return str(math.log(abs(12*math.sin(int(x)))))
-
+import os
+import time
 try:
+    link = "http://suninjuly.github.io/file_input.html"
     browser = webdriver.Chrome()
-    Link = ('http://suninjuly.github.io/explicit_wait2.html')
-    browser.get(Link)
-    price = WebDriverWait(browser, 12).until(
-        EC.text_to_be_present_in_element((By.ID, "price"), "100")
-    )
-    book = browser.find_element(By.CSS_SELECTOR, '#book').click()
-    x_element = browser.find_element(By.CSS_SELECTOR, '#input_value')
-    x = x_element.text
-    y = calc(x)
-    input = browser.find_element(By.ID,'answer')
-    input.send_keys(y)
-    submit = browser.find_element(By.ID,'solve').click()
+    browser.get(link)
+    first_name = browser.find_element(By.NAME,'firstname')
+    first_name.send_keys("Lenovo")
+    last_name = browser.find_element(By.NAME,'lastname')
+    last_name.send_keys('Idealpad')
+    email = browser.find_element(By.NAME,'email')
+    email.send_keys('example@mail.ru')
+    current_dir = os.path.abspath(os.path.dirname(r"C:\Users\Elshad\PycharmProjects\Training\example.txt"))
+    file_name = "example.txt"
+    file_path = os.path.join(current_dir, file_name)
+    element = browser.find_element(By.CSS_SELECTOR, "#file")
+    element.send_keys(file_path)
+    button = browser.find_element(By.CSS_SELECTOR, '.btn-primary').click()
 finally:
-    time.sleep(4)
-    browser.quit(
+    time.sleep(5)
+    browser.quit()
