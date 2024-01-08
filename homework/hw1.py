@@ -10,12 +10,9 @@ try:
     browser = webdriver.Chrome()
     link = "https://suninjuly.github.io/math.html"
     browser.get(link)
-
     x_element = browser.find_element(By.CSS_SELECTOR,"#input_value")
     x = x_element.text
-
     y = calc(x)
-
     answer_input = browser.find_element(By.CSS_SELECTOR,"#answer")
     answer_input.send_keys(y)
     time.sleep(2)
