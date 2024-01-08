@@ -27,7 +27,6 @@ try:
     time.sleep(2)
     submit_button = browser.find_element(By.CSS_SELECTOR,"button")
     submit_button.click()
-    time.sleep(5)
-
 finally:
+    time.sleep(5)
     browser.quit()
