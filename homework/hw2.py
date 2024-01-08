@@ -7,7 +7,6 @@ try:
     browser = webdriver.Chrome()
     link = "http://suninjuly.github.io/get_attribute.html"
     browser.get(link)
-
     sunduk = browser.find_element(By.ID,"treasure")
     sunduk_atribute = sunduk.get_attribute("valuex")
     print("значение атрибута", sunduk_atribute)
