@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from locators import *
 import json
 
+
 @pytest.fixture()
 def browser():
     browser = webdriver.Chrome()
@@ -18,18 +19,9 @@ def load_config():
         config = json.load(config_file)
         return config
 
-def compare(expected,actual):
+
+def compare(expected, actual):
     try:
         assert expected == actual
     except AssertionError:
-        print(f"{expected}, not equal{actual}")
-
-
-
-
-
-
-
-
-
-
+        print(f"{expected}, not equal {actual}")
