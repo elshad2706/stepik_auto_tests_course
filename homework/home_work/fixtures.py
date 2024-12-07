@@ -24,4 +24,4 @@ def compare(expected, actual):
     try:
         assert expected == actual
     except AssertionError:
-        print(f"{expected}, not equal = {actual}")
+        print(f"expected {expected}, not equal = {actual}")
