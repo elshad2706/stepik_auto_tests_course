@@ -1,0 +1,98 @@
+1732994043305	geckodriver	INFO	Listening on 127.0.0.1:52511
+1732994046459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileRgsGva"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732994047530	Marionette	INFO	Marionette enabled
+1732994047834	Marionette	INFO	Listening on port 52530
+WebDriver BiDi listening on ws://127.0.0.1:52512
+Read port: 52530
+1732994048214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732994073739	Marionette	INFO	Stopped listening on port 52530
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226, line 308: Script terminated by timeout at:
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226:308:85
+
+Dynamically enable window occlusion 1
+1732994078704	geckodriver	INFO	Listening on 127.0.0.1:52617
+1732994081750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileC9W9Xh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732994082762	Marionette	INFO	Marionette enabled
+1732994083000	Marionette	INFO	Listening on port 52629
+WebDriver BiDi listening on ws://127.0.0.1:52618
+Read port: 52629
+1732994083347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226, line 308: Script terminated by timeout at:
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226:308:85
+
+1732994106718	Marionette	INFO	Stopped listening on port 52629
+Dynamically enable window occlusion 1
+1732994119249	geckodriver	INFO	Listening on 127.0.0.1:52717
+1732994122332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileiEM6t8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732994123157	Marionette	INFO	Marionette enabled
+1732994123442	Marionette	INFO	Listening on port 52730
+Read port: 52730
+WebDriver BiDi listening on ws://127.0.0.1:52718
+1732994123691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 201: Script terminated by timeout at:
+Kh<@https://mc.yandex.ru/metrika/tag.js:201:84
+dl/p</</<@https://mc.yandex.ru/metrika/tag.js:67:118
+Ya/<@https://mc.yandex.ru/metrika/tag.js:158:228
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226:311:52
+
+1732994144683	Marionette	INFO	Stopped listening on port 52730
+Dynamically enable window occlusion 1
+1732994147920	geckodriver	INFO	Listening on 127.0.0.1:52809
+1732994151014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileTwuKxU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732994151744	Marionette	INFO	Marionette enabled
+1732994151976	Marionette	INFO	Listening on port 52821
+WebDriver BiDi listening on ws://127.0.0.1:52810
+Read port: 52821
+1732994152323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226, line 308: Script terminated by timeout at:
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226:308:85
+
+1732994168645	Marionette	INFO	Stopped listening on port 52821
+Dynamically enable window occlusion 1
+1732994211545	geckodriver	INFO	Listening on 127.0.0.1:52931
+1732994214596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileYefUHt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732994215364	Marionette	INFO	Marionette enabled
+1732994215597	Marionette	INFO	Listening on port 52943
+WebDriver BiDi listening on ws://127.0.0.1:52932
+Read port: 52943
+1732994215769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1732657226, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://top-fwz1.mail.ru/js/code.js, line 12: Script terminated by timeout at:
+Da@https://top-fwz1.mail.ru/js/code.js:12:429
+J@https://top-fwz1.mail.ru/js/code.js:17:360
+p.prototype.unload@https://top-fwz1.mail.ru/js/code.js:90:207
+La@https://top-fwz1.mail.ru/js/code.js:25:316
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js?1732657226:311:52
+
+1732994240683	Marionette	INFO	Stopped listening on port 52943
+Dynamically enable window occlusion 1

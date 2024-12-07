@@ -19,6 +19,7 @@ try:
     element = browser.find_element(By.CSS_SELECTOR, "#file")
     element.send_keys(file_path)
     button = browser.find_element(By.CSS_SELECTOR, '.btn-primary').click()
+    print("good")
 finally:
     time.sleep(5)
     browser.quit()
