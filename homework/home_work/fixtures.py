@@ -7,7 +7,7 @@ import json
 
 @pytest.fixture()
 def browser():
-    browser = webdriver.Chrome()
+    browser = webdriver.Firefox()
     yield browser
     browser.quit()
 
@@ -24,4 +24,4 @@ def compare(expected, actual):
     try:
         assert expected == actual
     except AssertionError:
-        print(f"{expected}, not equal {actual}")
+        print(f"{expected}, not equal is {actual}")

@@ -10,7 +10,7 @@ import time
 import math
 
 
-@pytest.mark.parametrize('link',[link_1,link_2,link_3,link_4,link_5,link_6,link_7,link_8])
+@pytest.mark.('link',[link_1,link_2,link_3,link_4,link_5,link_6,link_7,link_8])
 class TestLogin:
     def test_authorization(self,browser,link,load_config):
         login_stepik = load_config['login_stepik']

@@ -7,6 +7,8 @@ try:
     link = "http://suninjuly.github.io/file_input.html"
     browser = webdriver.Chrome()
     browser.get(link)
+    new = browser.window_handles[1]
+    browser
     first_name = browser.find_element(By.NAME,'firstname')
     first_name.send_keys("Lenovo")
     last_name = browser.find_element(By.NAME,'lastname')
@@ -23,3 +25,7 @@ try:
 finally:
     time.sleep(5)
     browser.quit()
+
+
+
+
