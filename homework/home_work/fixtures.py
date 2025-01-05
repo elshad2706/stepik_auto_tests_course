@@ -7,7 +7,7 @@ import json
 
 @pytest.fixture()
 def browser():
-    browser = webdriver.Firefox()
+    browser = webdriver.Chrome()
     yield browser
     browser.quit()
 

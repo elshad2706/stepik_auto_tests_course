@@ -96,3 +96,145 @@ r@https://cdn.stepik.net/static/frontend-build/chunk.414.e8b52922eb647c3ba954.js
 
 1732994240683	Marionette	INFO	Stopped listening on port 52943
 Dynamically enable window occlusion 1
+1736102007330	geckodriver	INFO	Listening on 127.0.0.1:54678
+1736102010442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileD1vD81"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736102011621	Marionette	INFO	Marionette enabled
+1736102012054	Marionette	INFO	Listening on port 54703
+WebDriver BiDi listening on ws://127.0.0.1:54679
+Read port: 54703
+1736102012780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 3547
+1736102024146	Marionette	INFO	Stopped listening on port 54703
+Dynamically enable window occlusion 1
+1736102028382	geckodriver	INFO	Listening on 127.0.0.1:54773
+1736102030956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileuqlYsY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736102032064	Marionette	INFO	Marionette enabled
+1736102032291	Marionette	INFO	Listening on port 54810
+WebDriver BiDi listening on ws://127.0.0.1:54774
+Read port: 54810
+1736102032764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2229
+1736102046629	Marionette	INFO	Stopped listening on port 54810
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/CaptiveDetect.sys.mjs, line 20: : 
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+1736102057252	geckodriver	INFO	Listening on 127.0.0.1:54873
+1736102060339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileOuHVGN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736102061126	Marionette	INFO	Marionette enabled
+1736102061349	Marionette	INFO	Listening on port 54885
+WebDriver BiDi listening on ws://127.0.0.1:54874
+Read port: 54885
+1736102061715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+1736102082381	Marionette	INFO	Stopped listening on port 54885
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 238))
+1736102086117	geckodriver	INFO	Listening on 127.0.0.1:54955
+1736102089149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofile50luLs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736102090776	Marionette	INFO	Marionette enabled
+1736102091738	Marionette	INFO	Listening on port 54982
+WebDriver BiDi listening on ws://127.0.0.1:54956
+Read port: 54982
+1736102092163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2436
+1736102098495	Marionette	INFO	Stopped listening on port 54982
+Dynamically enable window occlusion 1
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 777: TypeError: this.browsingContext is null
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 777: TypeError: this.browsingContext is null
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 127"  data: no]
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 127"  data: no]
+console.error: ({})
+console.error: ({})
+1736102980274	geckodriver	INFO	Listening on 127.0.0.1:60987
+1736102983384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileT5SY7Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736102984372	Marionette	INFO	Marionette enabled
+1736102984773	Marionette	INFO	Listening on port 60998
+WebDriver BiDi listening on ws://127.0.0.1:60988
+Read port: 60998
+1736102985252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1735043056, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1736103011280	Marionette	INFO	Stopped listening on port 60998
+Dynamically enable window occlusion 1
+1736103018117	geckodriver	INFO	Listening on 127.0.0.1:61218
+1736103021173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Elshad\\AppData\\Local\\Temp\\rust_mozprofileeEaRxl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1736103022054	Marionette	INFO	Marionette enabled
+1736103022275	Marionette	INFO	Listening on port 61243
+WebDriver BiDi listening on ws://127.0.0.1:61219
+Read port: 61243
+1736103022661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1735043056, line 6289: unreachable code after return statement
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://privacy-cs.mail.ru/static/sync-loader.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1736103058662	Marionette	INFO	Stopped listening on port 61243
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/chunk.355.44c0662e004945399673.js?1735043056, line 314: Script terminated by timeout at:
+Ce@https://cdn.stepik.net/static/frontend-build/chunk.355.44c0662e004945399673.js?1735043056:314:12
+7155/e.prototype._wrapTimeFunction/He@https://cdn.stepik.net/static/frontend-build/chunk.355.44c0662e004945399673.js?1735043056:352:13
+bd/<@https://mc.yandex.ru/metrika/tag.js:200:165
+ce@https://mc.yandex.ru/metrika/tag.js:199:470
+X@https://mc.yandex.ru/metrika/tag.js:187:410
+Gb.prototype.ba@https://mc.yandex.ru/metrika/tag.js:369:133
+C/<@https://mc.yandex.ru/metrika/tag.js:189:81
+C/<@https://mc.yandex.ru/metrika/tag.js:189:81
+r@https://cdn.stepik.net/static/frontend-build/chunk.355.44c0662e004945399673.js?1735043056:311:52
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  security-state/intermediates Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 127"  data: no]
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 127
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":127,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_validateCollectionSignature","sourceId":22,"lineNumber":1012,"columnNumber":47,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_importChanges","sourceId":22,"lineNumber":1091,"columnNumber":20,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20\n","nativeSavedFrame":{}},"formattedStack":"_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1012:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1012:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1012:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:127:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1012:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:127:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1012:47|_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1091:20|
+  - prototype Object
+console.error: ({details:{id:"9a0cf117-f8e7-4420-cc60-9fac2c2f6ffa", last_modified:1735657022792, bucket:"security-state", collection:"intermediates", host:"firefox.settings.services.mozilla.com"}})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
+console.error: "Could not download new icon" ({})
